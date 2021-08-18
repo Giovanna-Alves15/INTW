@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <contribuintes>
+        <cpf>111.222.333-44</cpf>
+        <rg>11.222.333-4</rg>
+        <nome>Joana Darc</nome>
+        <data_nasc>25/06/2000</data_nasc>
+        <endereço>
+            <logradouro>Rua Y</logradouro>
+            <numero>17</numero>
+            <bairro>Centro</bairro>
+            <cep>11111-222</cep>
+            <cidade>Maua</cidade>
+            <estado>SP</estado>
+        </endereço>
+        <contato>
+            <telefone>(11)1111-2222</telefone>
+            <celular>(11)91111-2222</celular>
+            <email>joanadarc@gmail.com</email>
+        </contato>
+        <renda>R$ 1.200,00</renda>
+        <foto>https://robohash.org/CJT.png?set=set1</foto>
+        <conta>
+            <ag>111-2</ag>
+            <cc>222222-1</cc>
+        </conta>
+    </contribuintes>
+    <contribuintes>
+        <cpf>111.222.333-44</cpf>
+        <rg>11.222.333-4</rg>
+        <nome>Teddy Junior</nome>
+        <data_nasc>16/09/2002</data_nasc>
+        <endereço>
+            <logradouro>Rua Y</logradouro>
+            <numero>17</numero>
+            <bairro>Centro</bairro>
+            <cep>11111-222</cep>
+            <cidade>Maua</cidade>
+            <estado>SP</estado>
+        </endereço>
+        <contato>
+            <telefone>(11)1111-2222</telefone>
+            <celular>(11)91111-2222</celular>
+            <email>teddyjunior@gmail.com</email>
+        </contato>
+        <renda>R$ 1.200,00</renda>
+        <foto>https://robohash.org/293.png?set=set1</foto>
+        <conta>
+            <ag>111-2</ag>
+            <cc>222222-1</cc>
+        </conta>
+    </contribuintes>
+    <contribuintes>
+        <cpf>111.222.333-44</cpf>
+        <rg>11.222.333-4</rg>
+        <nome>Jess Hollan</nome>
+        <data_nasc>05/05/2000</data_nasc>
+        <endereço>
+            <logradouro>Rua Y</logradouro>
+            <numero>17</numero>
+            <bairro>Centro</bairro>
+            <cep>11111-222</cep>
+            <cidade>Maua</cidade>
+            <estado>SP</estado>
+        </endereço>
+        <contato>
+            <telefone>(11)1111-2222</telefone>
+            <celular>(11)91111-2222</celular>
+            <email>jesshollan@gmail.com</email>
+        </contato>
+        <renda>R$ 1.200,00</renda>
+        <foto>https://robohash.org/3EC.png?set=set1</foto>
+        <conta>
+            <ag>111-2</ag>
+            <cc>222222-1</cc>
+        </conta>
+    </contribuintes>
+    <contribuintes>
+        <cpf>111.222.333-44</cpf>
+        <rg>11.222.333-4</rg>
+        <nome>Amaru Leal</nome>
+        <data_nasc>08/06/2000</data_nasc>
+        <endereço>
+            <logradouro>Rua Y</logradouro>
+            <numero>17</numero>
+            <bairro>Centro</bairro>
+            <cep>11111-222</cep>
+            <cidade>Maua</cidade>
+            <estado>SP</estado>
+        </endereço>
+        <contato>
+            <telefone>(11)1111-2222</telefone>
+            <celular>(11)91111-2222</celular>
+            <email>amaruleal@gmail.com</email>
+        </contato>
+        <renda>R$ 1.200,00</renda>
+        <foto>https://robohash.org/JEZ.png?set=set1</foto>
+        <conta>
+            <ag>111-2</ag>
+            <cc>222222-1</cc>
+        </conta>
+    </contribuintes>
+    <contribuintes>
+        <cpf>111.222.333-44</cpf>
+        <rg>11.222.333-4</rg>
+        <nome>Golias Jorge</nome>
+        <data_nasc>25/06/2000</data_nasc>
+        <endereço>
+            <logradouro>Rua Y</logradouro>
+            <numero>17</numero>
+            <bairro>Centro</bairro>
+            <cep>11111-222</cep>
+            <cidade>Maua</cidade>
+            <estado>SP</estado>
+        </endereço>
+        <contato>
+            <telefone>(11)1111-2222</telefone>
+            <celular>(11)91111-2222</celular>
+            <email>goliasjorge@gmail.com</email>
+        </contato>
+        <renda>R$ 1.200,00</renda>
+        <foto>https://robohash.org/ZOB.png?set=set1</foto>
+        <conta>
+            <ag>111-2</ag>
+            <cc>222222-1</cc>
+        </conta>
+    </contribuintes>
+</receita>
