@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <receita>
-    <contribuintes>
+    <contribuinte>
         <cpf>111.222.333-44</cpf>
         <rg>11.222.333-4</rg>
         <nome>Joana Darc</nome>
@@ -19,13 +19,13 @@
             <email>joanadarc@gmail.com</email>
         </contato>
         <renda>R$ 1.200,00</renda>
-        <foto>https://robohash.org/CJT.png?set=set1</foto>
+        <foto>https://robohash.org/P4L.png?set=set1</foto>
         <conta>
             <ag>111-2</ag>
             <cc>222222-1</cc>
         </conta>
-    </contribuintes>
-    <contribuintes>
+    </contribuinte>
+    <contribuinte>
         <cpf>111.222.333-44</cpf>
         <rg>11.222.333-4</rg>
         <nome>Teddy Junior</nome>
@@ -44,13 +44,13 @@
             <email>teddyjunior@gmail.com</email>
         </contato>
         <renda>R$ 1.200,00</renda>
-        <foto>https://robohash.org/293.png?set=set1</foto>
+        <foto>https://robohash.org/JXD.png?set=set1</foto>
         <conta>
             <ag>111-2</ag>
             <cc>222222-1</cc>
         </conta>
-    </contribuintes>
-    <contribuintes>
+    </contribuinte>
+    <contribuinte>
         <cpf>111.222.333-44</cpf>
         <rg>11.222.333-4</rg>
         <nome>Jess Hollan</nome>
@@ -69,13 +69,13 @@
             <email>jesshollan@gmail.com</email>
         </contato>
         <renda>R$ 1.200,00</renda>
-        <foto>https://robohash.org/3EC.png?set=set1</foto>
+        <foto>https://robohash.org/EI1.png?set=set1</foto>
         <conta>
             <ag>111-2</ag>
             <cc>222222-1</cc>
         </conta>
-    </contribuintes>
-    <contribuintes>
+    </contribuinte>
+    <contribuinte>
         <cpf>111.222.333-44</cpf>
         <rg>11.222.333-4</rg>
         <nome>Amaru Leal</nome>
@@ -94,13 +94,13 @@
             <email>amaruleal@gmail.com</email>
         </contato>
         <renda>R$ 1.200,00</renda>
-        <foto>https://robohash.org/JEZ.png?set=set1</foto>
+        <foto>https://robohash.org/V6K.png?set=set1</foto>
         <conta>
             <ag>111-2</ag>
             <cc>222222-1</cc>
         </conta>
-    </contribuintes>
-    <contribuintes>
+    </contribuinte>
+    <contribuinte>
         <cpf>111.222.333-44</cpf>
         <rg>11.222.333-4</rg>
         <nome>Golias Jorge</nome>
@@ -124,5 +124,5 @@
             <ag>111-2</ag>
             <cc>222222-1</cc>
         </conta>
-    </contribuintes>
+    </contribuinte>
 </receita>
